@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectspoti",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ae26e2a-2c25-45de-b0c2-9d7ab8ee8fca",
+		"tenantId": "45b9f831-8ae6-4375-aeb5-1f50dded4dcd"
+	}
+}
